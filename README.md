@@ -1,7 +1,7 @@
 
 <h1>React-AppBar Demo</h1>
 
-Description: An AppBar React component with three select menus which receive options via props and return the selected option to a user-defined function.
+Description: An AppBar React component with three select menus which receive options via props and return the selected option to a user-defined function. To check the returned options please open Inspect and check Console.
 
 Live Example: http://htmlpreview.github.io/?https://github.com/valvic66/app-bar/blob/master/example/index.html
 
